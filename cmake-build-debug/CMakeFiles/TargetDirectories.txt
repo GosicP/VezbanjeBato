@@ -1,0 +1,3 @@
+C:/Users/Pavle/CLionProjects/Vezba/VezbanjeBato/cmake-build-debug/CMakeFiles/VezbanjeBato.dir
+C:/Users/Pavle/CLionProjects/Vezba/VezbanjeBato/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pavle/CLionProjects/Vezba/VezbanjeBato/cmake-build-debug/CMakeFiles/rebuild_cache.dir
